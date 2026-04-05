@@ -5,7 +5,7 @@
 
 ## Content
 
-This repository contains 
+This repository contains the source code and data for the project *Topological characterization of Lieb-Schultz-Mattis constraints and applications to symmetry-enriched quantum criticality*. It provides tools and implementations for verifying and classifying for the Stiefel liquids including Deconfined Quantum Critical Points (DQCPs) and Dirac Spin Liquids (DSLs).
 
 
 ## Reference
